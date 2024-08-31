@@ -1,3 +1,6 @@
+#perform histogram equalization on an image. 
+#Histogram equalization is a technique for adjusting the contrast of an image by modifying its histogram
+
 from __future__ import print_function
 import cv2 as cv
 import argparse
